@@ -1,0 +1,13 @@
+.button{
+    box-sizing: border-box;
+    padding: 5px;
+    background-color: thistle;
+    color: black;
+    border-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.icon{
+    padding: 2px;
+}

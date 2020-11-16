@@ -1,0 +1,28 @@
+.navbarItems{
+    background-color: thistle;
+    height: fit-content;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.heading-navbar{
+    color: red;
+    text-align: left;
+    padding: 5px 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;;
+}
+
+.nav-menu{
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+    justify-content: end;
+    margin-right: 2rem;
+    width: 70vw;
+}
